@@ -7,7 +7,9 @@ The idea is implemented using Graph and Heap data structures. The graph has node
 
 By using different algorithms like Dijkstra, breadth-first search, depth-first search, etc, the shortest path between the source station and the destination station is determined, and accordingly, the fare is being calculated on the basis of the total distance between the two stations. Finally, the metro route between the two stations and the total fare is displayed.
 
-##Requirements
-![Dijkstras Algorithm]{https://www.geeksforgeeks.org/c-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/}
-![DFS]{https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/}
-![BFS]{https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/}
+## Requirements
+Dijkstras Algorithm => https://www.geeksforgeeks.org/c-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/
+
+Depth-First Search => https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+
+Breadth-First Search => https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
